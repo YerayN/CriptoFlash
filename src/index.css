@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Forzar modo claro */
+:root { color-scheme: light; }
